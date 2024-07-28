@@ -1,0 +1,6 @@
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\bin\Debug\Task1_Basic.exe.config
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\bin\Debug\Task1_Basic.exe
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\bin\Debug\Task1_Basic.pdb
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\obj\Debug\Task1_Basic.csprojResolveAssemblyReference.cache
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\obj\Debug\Task1_Basic.exe
+C:\Users\Cuckoo\Documents\Visual Studio 2012\Projects\Task1_Basic\Task1_Basic\obj\Debug\Task1_Basic.pdb
